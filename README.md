@@ -1,17 +1,12 @@
 # firebase_authentication
 
-A new Flutter project.
+ - [firebase_auth](https://pub.dev/packages/firebase_auth)
+ - [firebase_core](https://pub.dev/packages/firebase_core)
+ 
+ 
+## UI
+<img align="right" src="Screenshot_1656572338.png" width=200>
+<img align="right" src="Screenshot_1656572345.png" width=200>
+<img align="right" src="Screenshot_1656572358.png" width=200>
+<img align="right" src="Screenshot_1656572364.png" width=200>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# firebase_authentication" 
